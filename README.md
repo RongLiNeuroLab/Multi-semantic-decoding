@@ -2,7 +2,7 @@
 Multi-semantic Decoding of Visual Perception with Graph Neural Networks
 
 ## Description
-1. Data available in [multi-semantic decoding data](./)
+1. Data available in [multi-semantic decoding data](https://pan.baidu.com/s/1Xdkaf6QssGbzvrWRyLqeHQ?pwd=8lpa)
 
 ## Cite
 ```
